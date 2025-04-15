@@ -1,5 +1,4 @@
 # Jai Shree Ram
-# Jai Shree Ram
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
